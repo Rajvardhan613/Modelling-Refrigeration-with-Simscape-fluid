@@ -1,1 +1,2 @@
 # Modelling-Refrigeration-with-Simscape-fluid
+This project focuses on designing and simulating a closed-loop refrigeration system using Simscape Fluids, a MATLAB-based tool.Key components modeled include the evaporator, compressor, condenser, and expansion valve. The project also involves implementing PI controllers to regulate the system and ensure stable operation. Through this simulation, the project demonstrates the importance of accurate system modeling and parameter optimization in achieving reliable and efficient refrigeration performance.
